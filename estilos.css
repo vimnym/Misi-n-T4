@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-image: url(https://pbs.twimg.com/media/EfO5Jf_XgAMnfT4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 5%;
+    color: black;
+}
+
+button{
+    font-style: normal;
+    font-size: medium;
+}
